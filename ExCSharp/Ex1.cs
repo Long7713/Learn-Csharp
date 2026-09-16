@@ -12,7 +12,7 @@ namespace ExCSharp
             //Step 2: Typing in4 from keyboard
             //Using Console.ReadLine() read a string from user type in
             //"Hoten" variable have type is string
-            string HoTen = Console.ReadLine();
+            string ? HoTen = Console.ReadLine();
 
             //Step 3: Print result in screen
             //Use Console.WriteLine() auto line break

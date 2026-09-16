@@ -21,9 +21,14 @@ namespace ExCSharp
                         Console.WriteLine("Chuong trinh Baitap1 dang chay");
                         break;
                     case 2:
-                       
-                        Console.WriteLine("Chuong trinh Baitap1 dang chay");
+                        Ex2.Run();
+                        Console.WriteLine("Chuong trinh Baitap2 dang chay");
                         break;
+                    case 3:
+                        Ex3.Run();
+                        Console.WriteLine("Chuong trinh Baitap2 dang chay");
+                        break;
+                
                     default:
                         Console.WriteLine("Loi: Chi co cac bai tap tu 1 den 15 thoi!");
                         break;
