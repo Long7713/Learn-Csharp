@@ -26,7 +26,23 @@ namespace ExCSharp
                         break;
                     case 3:
                         Ex3.Run();
-                        Console.WriteLine("Chuong trinh Baitap2 dang chay");
+                        Console.WriteLine("Chuong trinh Baitap3 dang chay");
+                        break;
+                    case 4:
+                        Ex4.Run();
+                        Console.WriteLine("Chuong trinh Baitap4 dang chay");
+                        break;
+                    case 5:
+                        Ex5.Run();
+                        Console.WriteLine("Chuong trinh Baitap5 dang chay");
+                        break;
+                    case 6:
+                        Ex6.Run();
+                        Console.WriteLine("Chuong trinh Baitap6 dang chay");
+                        break;
+                    case 7:
+                        Ex7.Run();
+                        Console.WriteLine("Chuong trinh Baitap7 dang chay");
                         break;
                 
                     default:
